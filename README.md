@@ -1,34 +1,36 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi 👋, I'm Susan Chaudhaudhary
 
-Welcome to my GitHub profile! I'm a passionate professional with expertise in various technologies. Below are some of my key skills:
+## 👋 Hello there!
+I'm Susan Chaudhary, a passionate cybersecurity enthusiast with a keen interest in exploring and contributing to the world of cybersecurity. Welcome to my GitHub repository where I share my projects, contributions, and insights.
 
-## Skills
+## Connect with me:
 
-- **Docker:** Proficient in containerization, building, and managing Dockerized applications.
+<!-- Add your social links here -->
 
-- **PaloAlto Networks:** Experienced in configuring and managing PaloAlto Network devices for robust network security.
+## Languages and Tools:
 
-- **Checkpoint:** Skilled in working with Checkpoint firewalls to ensure a secure network environment.
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <!-- Add more tools and languages as needed -->
+</p>
 
-- **AWS (Amazon Web Services):** Cloud enthusiast with hands-on experience in AWS services and solutions.
+## Contact:
 
-## Projects
+<!-- Add any additional contact information or badges here -->
 
-Feel free to explore some of my projects related to these technologies:
+## Stats:
 
-- [Project 1: Dockerized Microservices](link-to-project1)
-- [Project 2: PaloAlto Network Security Implementation](link-to-project2)
-- [Project 3: Checkpoint Firewall Configuration](link-to-project3)
-- [Project 4: AWS Cloud Solutions](link-to-project4)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## Connect with Me
+## Let's connect and collaborate! 🚀
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Portfolio Website](your-portfolio-website)
+<!-- Add a call-to-action or any other information you'd like to highlight -->
 
-## Let's Collaborate!
+<br clear="both">
 
-If you have any questions, suggestions, or if you'd like to collaborate on a project, feel free to reach out. I'm always open to new opportunities and discussions.
+<img src="https://raw.githubusercontent.com/your-username/your-repo-name/output/snake.svg" alt="Snake animation" />
 
-Happy coding! 🚀
