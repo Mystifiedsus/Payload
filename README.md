@@ -1,49 +1,34 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hi there! 👋 I'm [Your Name]
 
-###
+Welcome to my GitHub profile! I'm a passionate professional with expertise in various technologies. Below are some of my key skills:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Skills
 
-###
+- **Docker:** Proficient in containerization, building, and managing Dockerized applications.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- **PaloAlto Networks:** Experienced in configuring and managing PaloAlto Network devices for robust network security.
 
-###
+- **Checkpoint:** Skilled in working with Checkpoint firewalls to ensure a secure network environment.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+- **AWS (Amazon Web Services):** Cloud enthusiast with hands-on experience in AWS services and solutions.
 
-###
+## Projects
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+Feel free to explore some of my projects related to these technologies:
 
-###
+- [Project 1: Dockerized Microservices](link-to-project1)
+- [Project 2: PaloAlto Network Security Implementation](link-to-project2)
+- [Project 3: Checkpoint Firewall Configuration](link-to-project3)
+- [Project 4: AWS Cloud Solutions](link-to-project4)
 
-<br clear="both">
+## Connect with Me
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+- [LinkedIn](your-linkedin-profile)
+- [Twitter](your-twitter-profile)
+- [Portfolio Website](your-portfolio-website)
 
-###
+## Let's Collaborate!
+
+If you have any questions, suggestions, or if you'd like to collaborate on a project, feel free to reach out. I'm always open to new opportunities and discussions.
+
+Happy coding! 🚀
