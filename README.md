@@ -1,36 +1,12 @@
-# Hi 👋, I'm Susan Chaudhaudhary
 
-## 👋 Hello there!
-I'm Susan Chaudhary, a passionate cybersecurity enthusiast with a keen interest in exploring and contributing to the world of cybersecurity. Welcome to my GitHub repository where I share my projects, contributions, and insights.
+Cross-Site Scripting (XSS) is a security vulnerability that allows attackers to inject malicious scripts into web pages viewed by other users. This occurs when a web application includes untrusted data on a web page without proper validation or escaping. The injected script can be executed in the context of the victim's browser, leading to potential theft of sensitive information, session hijacking, or defacement of websites.
 
-## Connect with me:
+There are three main types of XSS:
 
-<!-- Add your social links here -->
+Stored XSS (Persistent XSS): The malicious script is permanently stored on the target server, such as in a database. When a user accesses a particular page, the script is retrieved and executed.
 
-## Languages and Tools:
+Reflected XSS (Non-Persistent XSS): The injected script is reflected off a web server, such as in a URL or a form parameter. The victim must click on a specially crafted link to execute the malicious script.
 
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <!-- Add more tools and languages as needed -->
-</p>
+DOM-based XSS: The attack occurs within the Document Object Model (DOM) of the browser. The malicious script manipulates the DOM to achieve its goals.
 
-## Contact:
-
-<!-- Add any additional contact information or badges here -->
-
-## Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-## Let's connect and collaborate! 🚀
-
-<!-- Add a call-to-action or any other information you'd like to highlight -->
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/your-username/your-repo-name/output/snake.svg" alt="Snake animation" />
-
+To prevent XSS attacks, web developers should validate and sanitize user inputs, use proper output encoding, and implement security mechanisms like Content Security Policy (CSP). Users can protect themselves by being cautious about clicking on untrusted links and keeping their browsers up-to-date.
