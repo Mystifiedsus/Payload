@@ -1,0 +1,37 @@
+# T01-Malicious URLs
+
+https://urlhaus.abuse.ch/api/
+https://zeltser.com/lookup-malicious-websites/
+https://cleantalk.org/blacklists
+https://iplists.firehol.org/
+https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv
+
+# T02-Malware Downloads over HTTPs
+
+https://bazaar.abuse.ch/
+https://www.abuseipdb.com/sitemap
+https://urlhaus.abuse.ch/api/
+https://threatfox.abuse.ch/browse/
+
+# T03-Compressed Malicious Files
+
+https://bazaar.abuse.ch/
+
+#T04-Phishing Sites
+
+https://openphish.com/
+https://phishtank.org/
+https://db.aa419.org/fakebankslist.php
+
+# Botnets
+
+https://data.netlab.360.com/dga/
+https://feodotracker.abuse.ch/blocklist/
+https://tweetdeck.twitter.com/
+http://benkow.cc/passwords.php
+https://cybercrime-tracker.net/
+
+# Known Malicious Files
+
+https://samples.vx-underground.org/samples/Blocks/
+https://bazaar.abuse.ch/
